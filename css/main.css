@@ -293,4 +293,13 @@ html, body{margin:0;padding:0;}
     h3 {
         page-break-after: avoid;
     }
+    .logo {
+    border-radius: 25px;
+    background: url(paper.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}
 }
