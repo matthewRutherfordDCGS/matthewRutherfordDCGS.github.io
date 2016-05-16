@@ -301,8 +301,4 @@ html, body{margin:0;padding:0;}
     h3 {
         page-break-after: avoid;
     }
-    #image{
-         border: 200000px solid;
-         border-radius: 25px; 
-    }
 }
