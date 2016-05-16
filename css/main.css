@@ -43,13 +43,14 @@ body {
  * A better looking default horizontal rule
  */
 
-hr {
+h1 {
     display: block;
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
     margin: 1em 0;
     padding: 0;
+    color:#2a3990;
 }
 
 /*
